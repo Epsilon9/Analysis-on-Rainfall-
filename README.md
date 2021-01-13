@@ -1,15 +1,15 @@
-# This project aims to provide a better insight at the rainfall in India from 1901 to 2017
+## This project aims to provide a better insight at the rainfall in India from 1901 to 2017
 Analysis on Rainfall from 1901 to 2017 using Plotly
 This project is based on Data Analysis on Rainfall in India from 1901 to 2017 using python and plotly
 Plolty is a package used from front end developmet of Statistics based web apps
 
 Data Used from Govt repository data.gov.in
 Rainfall in mm
-# Analysis on Rainfall in India from 1901 to 2017
-## Using python to create an interactive dashboard and create insights on the rainfall data
+## Analysis on Rainfall in India from 1901 to 2017
+### Using python to create an interactive dashboard and create insights on the rainfall data
 >Data reference - https://data.gov.in/catalog/rainfall-india
 
-## Data description
+### Data description
 >The csv file contains-
 <ul>
     <li>Name: Depicting the ROW no</li>
